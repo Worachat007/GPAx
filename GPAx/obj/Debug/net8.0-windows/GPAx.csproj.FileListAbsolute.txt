@@ -1,0 +1,16 @@
+C:\cs\Github\GPAX\GPAx\GPAx\bin\Debug\net8.0-windows\GPAx.exe
+C:\cs\Github\GPAX\GPAx\GPAx\bin\Debug\net8.0-windows\GPAx.deps.json
+C:\cs\Github\GPAX\GPAx\GPAx\bin\Debug\net8.0-windows\GPAx.runtimeconfig.json
+C:\cs\Github\GPAX\GPAx\GPAx\bin\Debug\net8.0-windows\GPAx.dll
+C:\cs\Github\GPAX\GPAx\GPAx\bin\Debug\net8.0-windows\GPAx.pdb
+C:\cs\Github\GPAX\GPAx\GPAx\obj\Debug\net8.0-windows\GPAx.Form1.resources
+C:\cs\Github\GPAX\GPAx\GPAx\obj\Debug\net8.0-windows\GPAx.csproj.GenerateResource.cache
+C:\cs\Github\GPAX\GPAx\GPAx\obj\Debug\net8.0-windows\GPAx.GeneratedMSBuildEditorConfig.editorconfig
+C:\cs\Github\GPAX\GPAx\GPAx\obj\Debug\net8.0-windows\GPAx.AssemblyInfoInputs.cache
+C:\cs\Github\GPAX\GPAx\GPAx\obj\Debug\net8.0-windows\GPAx.AssemblyInfo.cs
+C:\cs\Github\GPAX\GPAx\GPAx\obj\Debug\net8.0-windows\GPAx.csproj.CoreCompileInputs.cache
+C:\cs\Github\GPAX\GPAx\GPAx\obj\Debug\net8.0-windows\GPAx.dll
+C:\cs\Github\GPAX\GPAx\GPAx\obj\Debug\net8.0-windows\refint\GPAx.dll
+C:\cs\Github\GPAX\GPAx\GPAx\obj\Debug\net8.0-windows\GPAx.pdb
+C:\cs\Github\GPAX\GPAx\GPAx\obj\Debug\net8.0-windows\GPAx.genruntimeconfig.cache
+C:\cs\Github\GPAX\GPAx\GPAx\obj\Debug\net8.0-windows\ref\GPAx.dll
